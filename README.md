@@ -1,4 +1,4 @@
-# eddyproject.github.io
+# WildGuardproject.github.io
 
 This repository hosts the Eddy Project website via GitHub Pages.
 
